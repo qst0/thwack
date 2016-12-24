@@ -8,6 +8,7 @@ I want to create my own, based on some of the same insights of heraclitus and ot
 ## My Goal: <br> Collect the musings within the cards for elaboration
 
 ["On a circle, an end point can also be a beginning point." -Heraclitus](2016-12-23.md)
+
 ["Every walking animal is driven to its purpose with a whack." -Heraclitus](2016-12-24.md)
 
 ### Then What?
@@ -51,3 +52,24 @@ Sure! It all depends on your specific objectives, the number of participants, an
 * Establish methods for fertilizing your work environment so that it fosters innovation
 * Give each participant an insight into his own particular creative thinking style
 * Put together an "action plan" for each participant to apply the benefits of the session to their work
+
+### "What is your background?"
+
+As long as I can remember, I've been intrested in ideas and how people get them.
+
+I received my Cahelor's degree from Ohio State in history and philosophy. I also won various honors: Phi Beta Kappa, President's Scholarship Award, Scholar-Athlete Award.
+
+I earnded my Ph.D. from Standford University in a self-conceived interdiscpiplinary program in the "History of Ideas."
+
+Upon graduation, I went to work for IBM as a marketing representative selling data base and data communications aplications. While there, I learned two important lessons:
+
+1. You can have a great idea, but if you can't sell it, it won't get very far.
+2. Many people develop tunnel-vision and thus miss a lot of good ideas around them.
+
+In 1977, I started my own compau, Creative Think, to stimulate creativity and innoation in business. I especially enjoy the diversity of the problems and companies that I get involved with.
+
+I'm married (my wife Wendy is invlved with Creative Think) and we have two children, Athena and Alex. My hobbies include Masters swimming and collecting old television commercials.
+
+### "Who are some of the groups you've worked with?"
+
+[Take a look on Roger von Oech's website](http://creativethink.com/seminarinfo-5.html)
