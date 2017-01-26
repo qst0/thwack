@@ -1,6 +1,5 @@
-### Friday December 23rd 2016 Creative Think Website
-
-74 Change Contexts "On a circle, an end point can also be a beginning point." -Heraclitus
+# 74 Change Contexts
+> "On a circle, an end point can also be a beginning point." -Heraclitus
 
 An idea or thing takes its meaning from the context in which you put it.
 If you change its context, it will take on a different meaning.
