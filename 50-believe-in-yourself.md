@@ -1,8 +1,8 @@
-50 Believe in Yourself
+# 50 Believe in Yourself
 
 The philosopher Epictetus remarked:
 
-"What concerns me is not the way things are, but rather the way people think things are."
+> "What concerns me is not the way things are, but rather the way people think things are."
 
 Serveral years ago, a major oil company was concerned about the lack of creative productivity among its engineers. To deal with this problem, a team of psychologists were brought in to find out what differentiated the cretive people from the less creative ones.
 
@@ -10,31 +10,17 @@ The psychologists asked the engineers many questions ranging from where they gre
 
 The psychologists found that the cheif differentiating factor that separated the two groups was: the creative people thought they were creative, and the less creative people didn't think they were.
 
-as a consequence, the creative people put themselves in a position where they could use their creativity 
-
----
----
-
-COPY PASTE DUMP:
-The philosopher Epictetus remarked:
-
-“What concerns me is not the way things are, but rather the way people think things are.”
-
-Several years ago, a major oil company was concerned about the lack of creative productivity among its engineers. To deal with this problem, a team of psychologists was brought in to find out what differentiated the creative people from the less creative ones.
-
-The psychologists asked the engineers many questions ranging from where they grew up to what their educational backgrounds were to what their favorite colors were.
-
-The psychologists found that the chief differentiating factor that separated the two groups was: The creative people thought they were creative, and the less creative people didn’t think they were.
-
-As a consequence, the creative people put themselves in a position where they could use their creativity: they allowed themselves to get into an imaginative frame of mind, play with their knowledge, take a few risks, and look for lots of right answers.
+as a consequence, the creative people put themselves in a position where they could use their creativity: they allowed themselves to get into an imaginative frame of mind, play with their knowledge, take a few risks, and look for lots of right answers.
 
 If you think you’re creative, you’ll act that way — and if you don’t, you won’t. It’s a self-fulfilling prophecy: As you think, so you are.
 
-— In what ways are you creative?
+### In what ways are you creative?
 
-— What strengths do you have that you can apply to your issue?
-The ancient Greek philosopher Heraclitus said: “I searched into myself.”
+### What strengths do you have that you can apply to your issue?
 
+The ancient Greek philosopher Heraclitus said:
+
+> “I searched into myself.”
 
 A good exercise is to take some time to figure out your own creative style, that is, what your own creative tendencies are.
 
@@ -60,6 +46,6 @@ Here are ten of mine:
 
 10. I look for inspiration in many different areas, but above all, I look for it in myself. I’ve found that a sense of myself has been vital to my success as a creative person. But I’ve also found that when my feelings of self-worth get carried to extremes, my judgment gets clouded, and I risk cutting myself off from that deep ocean of being that sustains me — and us all.
 
-— What is your creative thinking style?
+### What is your creative thinking style?
 
-— What are your strengths and weaknesses?
+### What are your strengths and weaknesses?
