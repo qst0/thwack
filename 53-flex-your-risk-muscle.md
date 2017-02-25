@@ -19,7 +19,7 @@ Everyone has a risk muscle. You keep it in shape by trying new things. If you do
 
 As Arthur Koestler put it:
 
-“If the Creator had a purpose in equipping us with a neck, he certainly would have meant for us to stick it out.”
+> “If the Creator had a purpose in equipping us with a neck, he certainly would have meant for us to stick it out.”
 
 — How can you flex your risk muscle?
 
