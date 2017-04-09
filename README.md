@@ -1,9 +1,14 @@
 # Thought Thwack
 
 Thought Thwack is inspired by the amazing [Creative and Innovative Whack Packs](http://creativethink.com/).
-The stories and creative strategies in the cards are fun and intresting. Please consider buying them!
+The stories and creative strategies in the cards are fun and intresting. [Please consider buying them!](http://creativewhack.com/home.php?cat=3)
 
-I want to create my own, based on some of the same insights of heraclitus and other sources.
+I want to create my own, based on some of the same insights of Heraclitus and other sources such as [The Oblique Strategies](https://en.wikipedia.org/wiki/Oblique_Strategies).
+
+I love the continued dialog that Roger Von Oech's cards bring to each situation and musing.
+You can eaisly find something you agree with, or even better, something that will make you think.
+
+The cards also encourage us each to do this ourselves.
 
 I have located 'the heart of the cards' so to speak content / web wise [here.](http://creativethink.com/WhackPack/LiveCards/01.html)
 
@@ -35,6 +40,6 @@ I ended up with the Creative Whack Pack, missing a few cards, in my hand for 88 
 
 I was captivated and soon found [creativethink.com](http://creativethink.com/)
 
-#### Who made the cards?
+#### Wait, who made the cards?
 
 [Roger Von Oech](roger_von_oech.md)
